@@ -2,12 +2,24 @@
   "name": "flightaware-ts",
   "version": "1.0.0",
   "description": "TypeScript bindings for FlightAware API v3.0",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Philip Blair",
+    "email": "philip@pblair.org"
+  },
+  "homepage": "https://github.com/belph/flightaware-ts",
+  "bugs": {
+    "url": "https://github.com/belph/flightaware-ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/belph/flightaware-ts.git"
+  },
   "main": "build/src/index.js",
   "types": "build/src/index.d.ts",
   "files": [
     "build/src"
   ],
-  "license": "Apache-2.0",
   "keywords": [],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
