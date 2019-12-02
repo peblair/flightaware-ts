@@ -1,4 +1,5 @@
 # FlightAware API Bindings
+[![npm version](https://badge.fury.io/js/flightaware-ts.svg)](https://badge.fury.io/js/flightaware-ts)
 
 This repository provides TypeScript bindings to the [FlightAware API v3.0][fa-api]. Usage requires an [API key][fa-api-key].
 
